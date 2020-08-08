@@ -1280,8 +1280,8 @@ body {
       margin-left: 4px;
       color: #0bceaf; }
   .mh-experince .mh-education-deatils .mh-education-item .mh-eduyear {
-    margin: 10px 0;
-    color: #0bceaf; }
+    color: #0bceaf;
+  font-size: x-small; }
   .mh-experince .mh-education-deatils .mh-education-item p {
     font-size: 14px;
     line-height: 23px;
@@ -1318,7 +1318,8 @@ body {
       .mh-work .mh-experience-deatils .mh-work-item h4 a {
         color: #0bceaf; }
     .mh-work .mh-experience-deatils .mh-work-item .mh-eduyear {
-      margin: 10px 0;
+      margin: 5px 0;
+      font-size: x-small;
       color: #0bceaf; }
     .mh-work .mh-experience-deatils .mh-work-item span {
       font-size: 12px;
