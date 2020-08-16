@@ -166,6 +166,48 @@ a {
   float: none;
   vertical-align: middle; }
 
+
+  .counter-box {
+    display: block;
+    background: #f6f6f600;
+    padding: 20px 2px 0px 2px;
+    text-align: center;
+    border: 1px solid white;
+
+}
+
+.counter-box p {
+    margin: 20px 0 0;
+    padding: 0;
+    color: #909090;
+    font-size: 15px;
+    font-weight: 500
+}
+
+.counter-box i {
+    font-size: 20px;
+    margin: 0 0 15px;
+    color: #d2d2d2
+}
+
+.counter {
+    display: block;
+    font-size: 32px;
+    font-weight: 700;
+    margin: 20px 0px;
+    color: #666;
+    line-height: 28px
+}
+
+.counter-box.colored {
+    background:#3acf8700
+}
+
+.counter-box.colored p,
+.counter-box.colored i,
+.counter-box.colored .counter {
+    color: #fff
+}
 /**
  * --------------------------------------
  *  Video Section Background Defult Style
